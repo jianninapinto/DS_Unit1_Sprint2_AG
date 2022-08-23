@@ -1,5 +1,8 @@
 # Data Science - Unit 1 Sprint 2 Module 4 | BloomTech
 ## Module Project: Simple Linear Regression
+
+## Sprint Challenge: Statistical Tests and Experiments
+
 ### Learning Objectives
 - Identify the independent and dependent variables in a relationship (also known as features and target, and explanatory and response variables)
 - Identify linear and nonlinear relationships from a scatterplot
